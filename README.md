@@ -27,5 +27,4 @@ The Xen Project hypervisor is an open-source type-1 or baremetal hypervisor, whi
 - SSL certs are implemented using [LetsEncript](https://letsencrypt.org "LetsEncript").
 - Assign GPU to a VM and run LLM on it for AI assisted coding/automation.
 - 8 x NVIDIA Tesla V100 SXM2 NVLink Base Board CPBG200 is connected to the motherboard using PLX8749 (PCIe Switch).
-
 - Currently working on implementing immersion cooling.
