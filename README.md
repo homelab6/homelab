@@ -26,5 +26,5 @@ The Xen Project hypervisor is an open-source type-1 or baremetal hypervisor, whi
 - Traffic flow from public IP proxy’d through [cloudflare](https://www.cloudflare.com "cloudflare") is controlled using [traefik](https://traefik.io "traefik").
 - SSL certs are implemented using [LetsEncript](https://letsencrypt.org "LetsEncript").
 - Assign GPU to a VM and run LLM on it for AI assisted coding/automation.
-- 8 x NVIDIA Tesla V100 SXM2 NVLink Base Board CPBG200 is connected to the motherboard using PLX8749 (PCIe Switch).
+- 8 x NVIDIA Tesla V100 SXM2 NVLink Base Board CPBG200 (base board of GIGABYTE G481-S80) is connected to the motherboard using PLX8749 (PCIe Switch).
 - Currently working on implementing immersion cooling.
