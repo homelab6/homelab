@@ -48,6 +48,6 @@
 
 ![12.](images/img012.jpg "12.")
 
-13.
+13. Working on setting up kubernetes cluster
 
 ![13.](images/img013.jpg "13.")
